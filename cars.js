@@ -23,6 +23,16 @@ function getBrands() {
   return;
 }
 
+// get categories
+function getCategories() {
+  return;
+}
+
+// available cars by category
+function getAvailableCarsByCategory() {
+  return;
+}
+
 // reservations by month
 function getReservationsByMonth() {
   return;
@@ -33,4 +43,7 @@ function getReservationsCountByMonth() {
   return;
 }
 
-// bookings for month
+// reservations ratio by month
+function getReservationsRatioByMonth() {
+  return;
+}
